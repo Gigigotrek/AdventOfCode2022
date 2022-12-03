@@ -9,3 +9,8 @@
 [Part 1](./day2-1/main.go)
 
 [Part 2](./day2-2/main.go)
+
+## --- Day 3: Rucksack Reorganization ---
+[Part 1](./day3-1/main.go)
+
+[Part 2](./day3-2/main.go)
